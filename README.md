@@ -58,8 +58,9 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
    ```bash
    npm install
    ```
-4. Run the application in development mode:
+4. Go to src folder and run the application in development mode:
    ```bash
+   cd src
    npm start
    ```
 
